@@ -34,6 +34,6 @@ Once the plugin is installed, then :
 
 1. Go to the Rule Engine portlet
 2. Add or modify a rule - you do not need a condition
-3. Add this BasicAuth actionlet and type the username:password  as the parameter
+3. Add this BasicAuth actionlet and type the `username:password` as the parameter
 4. Activate the rule
 
