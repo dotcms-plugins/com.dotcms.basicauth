@@ -28,6 +28,8 @@ This will build two jars in the `build/libs` directory: a bundle fragment (in or
 
 ## How to Use
 
+![Screen Shot 2020-09-18 at 6 12 41 PM](https://user-images.githubusercontent.com/934364/93649709-9cf96c00-f9da-11ea-8f41-103fe6b61793.png)
+
 Once the plugin is installed, then :
 
 1. Go to the Rule Engine portlet
