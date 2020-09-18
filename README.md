@@ -1,5 +1,7 @@
 # Basic Auth Plugin
 
+![Screen Shot 2020-09-18 at 6 12 41 PM](https://user-images.githubusercontent.com/934364/93649709-9cf96c00-f9da-11ea-8f41-103fe6b61793.png)
+
 There are times when you just want to add a simple basic authenitcation to a page or subpages or a site. This plugin adds a rules engine actionlet that can provide basic authentication for front end pages and content. It takes one string as an arguement - the user name and password separated by a colon, e.g: username:password
 
 ## How to build this example
@@ -27,8 +29,6 @@ This will build two jars in the `build/libs` directory: a bundle fragment (in or
 
 
 ## How to Use
-
-![Screen Shot 2020-09-18 at 6 12 41 PM](https://user-images.githubusercontent.com/934364/93649709-9cf96c00-f9da-11ea-8f41-103fe6b61793.png)
 
 Once the plugin is installed, then :
 
