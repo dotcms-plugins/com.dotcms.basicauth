@@ -125,5 +125,5 @@ task fragmentJar(type: Jar) {
 fragmentJar.dependsOn 'readManifesttAttributes'
 
 task wrapper(type: Wrapper) {
-    gradleVersion = '4.2'
+    gradleVersion = '4.10.2'
 }
